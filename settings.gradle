@@ -1,0 +1,6 @@
+rootProject.name = 'physicality'
+
+include "physicality-ability"
+
+include "physicality-ability:dynamo"
+include "physicality-ability:vector_field"

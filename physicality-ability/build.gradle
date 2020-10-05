@@ -1,0 +1,6 @@
+group 'yenru0.yrkaier'
+version '0.1'
+
+gradle.buildFinished {
+    buildDir.deleteDir()
+}
